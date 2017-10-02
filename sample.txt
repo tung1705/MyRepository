@@ -1,2 +1,4 @@
 First time using git
 commit: save status of index
+pull: lay noi dung tu repository
+
