@@ -1,1 +1,2 @@
 First time using git
+pull: lay noi dung tu repository
