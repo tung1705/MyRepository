@@ -1,1 +1,2 @@
 First time using git
+commit: save status of index
